@@ -20,10 +20,6 @@ Now, we need to get the database.
 ```
 Returned `TNS for Linux: Version 11.2.0.2.0 - Production`
 
-Next, lets try to get the DB version
-```
-```
-
 
 ## Solution
 Payload: `'+UNION+SELECT+version,NULL+FROM+v$instance--`
