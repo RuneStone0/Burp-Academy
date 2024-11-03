@@ -1,7 +1,7 @@
 # Lab: SQL injection UNION attack, determining the number of columns returned by the query
 ## Description
 
-Exercise is simple to identify the number of columns used by the query.
+Exercise is simply to identify the number of columns used by the query.
 
 
 
