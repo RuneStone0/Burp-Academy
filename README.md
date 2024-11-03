@@ -29,6 +29,9 @@ My solutions for the Burp Academy labs.
 * 🔴 26 - GraphQL API vulnerabilities
 * 🔴 27 - Race conditions
 * 🔴 28 - NoSQL injection
+* 🔴 29 - API testing
+* 🔴 30 - Web LLM attacks
+* 🔴 31 - Web cache deception
 
 Above list is based on [deepfryd.com](https://www.deepfryd.com/burp-academy-apprentice/)
 
